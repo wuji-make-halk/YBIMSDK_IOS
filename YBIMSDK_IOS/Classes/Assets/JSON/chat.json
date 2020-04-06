@@ -1,0 +1,272 @@
+{
+    "code": 0,
+    "data": [
+        {
+            "type": "TEXT",
+            "fid": "wx1234skjksmsjdfwe234",
+            "sendTime": "1453355368648",
+            "result": "1",
+            "sid": "wx1234skjksmsjdfwe234iPhone1453355368652",
+        
+            "payload": "哈哈哈哈哈哈哈哈，测试测试",
+            "device": "iPhone",
+            "tid": "wx43922sdkfjsfmmxdfmx"
+        },
+        {
+            "type": "TEXT",
+            "fid": "wx1234skjksmsjdfwe234",
+            "sendTime": "1453355369353",
+            "result": "1",
+            "sid": "wx1234skjksmsjdfwe234iPhone1453355369368",
+            
+            "payload": "6",
+            
+            "device": "iPhone",
+            "tid": "wx43922sdkfjsfmmxdfmx"
+        },
+        {
+            "type": "TEXT",
+            "fid": "wx1234skjksmsjdfwe234",
+            "sendTime": "1453355739203",
+            "result": "1",
+            "sid": "wx1234skjksmsjdfwe234iPhone1453355739199",
+            "payload": "a",
+            "device": "iPhone",
+            "tid": "wx43922sdkfjsfmmxdfmx"
+        },
+        {
+            "type": "TEXT",
+            "fid": "wx1234skjksmsjdfwe234",
+            "sendTime": "1453355742132",
+            "result": "1",
+            "sid": "wx1234skjksmsjdfwe234iPhone1453355742133",
+            
+            "payload": "2",
+            
+            "device": "iPhone",
+            "tid": "wx43922sdkfjsfmmxdfmx"
+        },
+        {
+            "sid": "wx1234skjksmsjdfwe234iPhone1453358045",
+            "tid": "wx43922sdkfjsfmmxdfmx",
+            "keyHash": "4bdc6752ffdb76d307567968963fdf02",
+            
+            "channels": "1",
+            "fileSize": "11264",
+            "duration": "7",
+            "audioUrl": "https://file3.data.weipan.cn/67277279/688ee1abaa269bc3c44b0e1698f17f4b60af3f53?ip=1578970265,183.159.178.169&ssig=2L3xrVui3a&Expires=1578970865&KID=sae,l30zoo1wmz&fn=%E8%AF%AD%E9%9F%B3+001.amr&se_ip_debug=183.159.178.169&from=1221134",
+            "audioId": "1485",
+            "formatName": "amr/amr",
+            "mimeType": "audio/amr",
+            "bitRate": "12822.018",
+            "payload": "",
+            
+            "fid": "wx1234skjksmsjdfwe234",
+            "result": "1",
+            "sendTime": "1453358048458",
+            "type": "2",
+            
+            "device": "iPhone"
+        },
+        {
+            "sid": "wx43922sdkfjsfmmxdfmxiPhone1453372358",
+            "tid": "wx1234skjksmsjdfwe234",
+            
+            "keyHash": "0b835eaaf57e12f553a28fcbc3d6790e",
+            "channels": "1",
+            "fileSize": "28672",
+            "duration": "17",
+            "audioUrl": "https://file3.data.weipan.cn/67277279/688ee1abaa269bc3c44b0e1698f17f4b60af3f53?ip=1578970265,183.159.178.169&ssig=2L3xrVui3a&Expires=1578970865&KID=sae,l30zoo1wmz&fn=%E8%AF%AD%E9%9F%B3+001.amr&se_ip_debug=183.159.178.169&from=1221134",
+            "audioId": "xxxxxxxxxx",
+            "formatName": "amr/amr",
+            "mimeType": "audio/amr",
+            "bitRate": "12840.000",
+            "payload": "",
+            
+            "fid": "wx43922sdkfjsfmmxdfmx",
+            "result": "1",
+            "sendTime": "1453372359786",
+            "type": "2",
+            
+            "device": "iPhone"
+        },
+        {
+            "type": "TEXT",
+            "fid": "wx1234skjksmsjdfwe234",
+            "sendTime": "1453432337812",
+            "result": "1",
+            "sid": "wx1234skjksmsjdfwe234iPhone1453432337716",
+            
+            "payload": "[憨笑][憨笑][憨笑]哈哈哈哈明明敏明啊读书兔兔[坏笑][坏笑]",
+            
+            "device": "iPhone",
+            "tid": "wx43922sdkfjsfmmxdfmx"
+        },
+        {
+            "sid": "wx43922sdkfjsfmmxdfmxiPhone1454050189",
+            "tid": "wx1234skjksmsjdfwe234",
+            "audioInfo": null,
+            "fid": "wx43922sdkfjsfmmxdfmx",
+            "result": "1",
+            "sendTime": "1453459821874",
+            "type": "IMAGE",
+            "thumbUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1284651229,4011062394&fm=26&gp=0.jpg",
+            "width": "500",
+            "originalUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1284651229,4011062394&fm=26&gp=0.jpg",
+            "imageid": "1825764285",
+            "height": "337",
+            "payload": "",
+            "device": "iPhone"
+        },
+        {
+            "type": "TEXT",
+            "fid": "wx1234skjksmsjdfwe234",
+            "sendTime": "1453461571010",
+            "picInfo": null,
+            "result": "1",
+            "sid": "wx1234skjksmsjdfwe234iPhone1453461570936",
+            "payload": "啊啊啊 http://www.baidu.com 哈哈哈就",
+            "device": "iPhone",
+            "tid": "wx43922sdkfjsfmmxdfmx"
+        },
+        {
+            "type": "TEXT",
+            "fid": "wx1234skjksmsjdfwe234",
+            "sendTime": "1453461830368",
+            "picInfo": null,
+            "result": "1",
+            "sid": "wx1234skjksmsjdfwe234iPhone1453461830314",
+            
+            "payload": "www.baidu.com",
+            
+            "device": "iPhone",
+            "tid": "wx43922sdkfjsfmmxdfmx"
+        },
+        {
+            "type": "TEXT",
+            "fid": "wx1234skjksmsjdfwe234",
+            "sendTime": "1453461887639",
+            "picInfo": null,
+            "result": "1",
+            "sid": "wx1234skjksmsjdfwe234iPhone1453461887583",
+            
+            "payload": "时间间隔 cell 是本地生成的数据。www.github.com.abc. The separator time cell is generate by calculating the two MessageModel's sendTime",
+            
+            "device": "iPhone",
+            "tid": "wx43922sdkfjsfmmxdfmx"
+        },
+        {
+            "type": "IMAGE",
+            "fid": "wx1234skjksmsjdfwe234",
+            "sendTime": "1453461900243",
+            
+            "thumbUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1284651229,4011062394&fm=26&gp=0.jpg",
+            "width": "440",
+            "originalUrl": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1284651229,4011062394&fm=26&gp=0.jpg",
+            "imageid": "1825764285",
+            "height": "436",
+            "payload": "",
+            
+            "result": "1",
+            "sid": "wx1234skjksmsjdfwe234iPhone1453461900188",
+            
+            "device": "iPhone",
+            "tid": "wx43922sdkfjsfmmxdfmx"
+        },
+        {
+            "sid": "wx43922sdkfjsfmmxdfmxiPhone1454050179",
+            "tid": "wx1234skjksmsjdfwe234",
+            
+            "keyHash": "4bdc6752ffdb76d307567968963fdf02",
+            "channels": "1",
+            "fileSize": "3078",
+            "duration": "7",
+            "audioUrl": "https://file3.data.weipan.cn/67277279/688ee1abaa269bc3c44b0e1698f17f4b60af3f53?ip=1578970265,183.159.178.169&ssig=2L3xrVui3a&Expires=1578970865&KID=sae,l30zoo1wmz&fn=%E8%AF%AD%E9%9F%B3+001.amr&se_ip_debug=183.159.178.169&from=1221134",
+            "audioId": "xxxxxxxxx",
+            "formatName": "amr/amr",
+            "mimeType": "audio/amr",
+            "bitRate": "12825.000",
+            "payload": "",
+            
+            "fid": "wx43922sdkfjsfmmxdfmx",
+            "result": "1",
+            "sendTime": "1454050186495",
+            "type": "2",
+            
+            "device": "iPhone"
+        },
+        {
+            "sid": "wx43922sdkfjsfmmxdfmxiPhone1454050185",
+            "tid": "wx1234skjksmsjdfwe234",
+            
+            "keyHash": "ac8ee63ae1e7d7185bcc99d11145eebb",
+            "channels": "1",
+            "fileSize": "30720",
+            "duration": "30",
+            "audioUrl": "https://file3.data.weipan.cn/67277279/688ee1abaa269bc3c44b0e1698f17f4b60af3f53?ip=1578970265,183.159.178.169&ssig=2L3xrVui3a&Expires=1578970865&KID=sae,l30zoo1wmz&fn=%E8%AF%AD%E9%9F%B3+001.amr&se_ip_debug=183.159.178.169&from=1221134",
+            "audioId": "1491",
+            "formatName": "amr/amr",
+            "mimeType": "audio/amr",
+            "bitRate": "12819.672",
+            "payload": "",
+            
+            "fid": "wx43922sdkfjsfmmxdfmx",
+            "result": "1",
+            "sendTime": "1454050192804",
+            "type": "2",
+            
+            "device": "iPhone"
+        },
+        {
+            "sid": "wx43922sdkfjsfmmxdfmxiPhone1454050189",
+            "tid": "wx1234skjksmsjdfwe234",
+            "fid": "wx43922sdkfjsfmmxdfmx",
+            "result": "1",
+            "sendTime": "1454050196116",
+            "type": "IMAGE",
+            "thumbUrl": "https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E5%9B%BE%E7%89%87%E5%9C%B0%E5%9D%80&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=2181978185,3532136591&os=1423410745,2538884430&simid=4045875646,293390246&pn=13&rn=1&di=134310&ln=1047&fr=&fmq=1578969190818_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&hs=2&objurl=http%3A%2F%2Fdik.img.kttpdq.com%2Fpic%2F75%2F52446%2Ff820e136aa5c3384_2560x1440.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined",
+            "width": "440",
+            "originalUrl": "http://ww3.sinaimg.cn/bmiddle/692a6bbcgw1exp81myss3j20g40o6tah.jpg",
+            "imageid": "1825764285",
+            "height": "660",
+            "payload": "",
+            
+            "device": "iPhone"
+        },
+        {
+            "type": "TEXT",
+            "fid": "wx43922sdkfjsfmmxdfmx",
+            "sendTime": "1454063956429",
+            "result": "1",
+            "sid": "wx43922sdkfjsfmmxdfmxiPhone1454063956356",
+            "payload": "[憨笑]我发个表情试试，哈哈哈哈，我的电话: 13581887557 [阴险].  I send a expression image to test, LOL. My phone is: 13581887557 [阴险]",
+            "device": "iPhone",
+            "tid": "wx1234skjksmsjdfwe234"
+        },
+        {
+            "type": "TEXT",
+            "fid": "wx43922sdkfjsfmmxdfmx",
+            "sendTime": "1454063961015",
+            
+            "result": "1",
+            "sid": "wx43922sdkfjsfmmxdfmxiPhone1454063961005",
+            "payload": "[晕] 这是测试的数据，数据来源于文件：chat.json. This is the test data that comes form the chat.json",
+            "device": "iPhone",
+            "tid": "wx1234skjksmsjdfwe234"
+        },
+        {
+            "type": "TEXT",
+            "fid": "wx1234skjksmsjdfwe234",
+            "sendTime": "1454063963082",
+            "result": "1",
+            "sid": "wx43922sdkfjsfmmxdfmxiPhone1454063963073",
+            "payload": "[悠闲][悠闲][悠闲]This YBIMSDK project, a alternative WeChat, Github: https://github.com/hilen/YBIMSDK, written in Swift. Enjoy[调皮]",
+            "device": "iPhone",
+            "tid": "wx43922sdkfjsfmmxdfmx"
+        }
+    ],
+    "message": "success",
+    "msgTotal": "76",
+    "successful": 1,
+    "error_code": 0
+}

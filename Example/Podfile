@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+target 'YBIMSDK_IOS_Example' do
+use_frameworks!
+platform :ios, '10.0'
+  pod 'YBIMSDK_IOS', :path => '../'
+
+
+end

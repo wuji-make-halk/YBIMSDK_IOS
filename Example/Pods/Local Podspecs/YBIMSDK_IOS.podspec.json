@@ -1,0 +1,95 @@
+{
+  "name": "YBIMSDK_IOS",
+  "version": "1.0.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE.md"
+  },
+  "summary": "An elegant messages UI library for iOS.",
+  "homepage": "https://github.com/Apolla/YBIMSDK_IOS",
+  "authors": {
+    "apolla": "apolla.song@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Apolla/YBIMSDK_IOS.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YBIMSDK_IOS/Classes/**/*.{h,m,swift}",
+  "resources": [
+    "YBIMSDK_IOS/Classes/**/*"
+  ],
+  "resource_bundles": {
+    "YBIMSDK_IOS": [
+      "YBIMSDK_IOS/Classes/**/*.{xib,storyboary}",
+      "YBIMSDK_IOS/Assets/**/*.*"
+    ]
+  },
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "Kingfisher": [
+
+    ],
+    "ObjectMapper": [
+
+    ],
+    "SwiftyJSON": [
+
+    ],
+    "Dollar": [
+
+    ],
+    "AliyunOSSiOS": [
+
+    ],
+    "RxSwift": [
+
+    ],
+    "RxCocoa": [
+
+    ],
+    "RxBlocking": [
+
+    ],
+    "XCGLogger": [
+
+    ],
+    "SnapKit": [
+
+    ],
+    "BSImagePicker": [
+
+    ],
+    "TSVoiceConverter": [
+
+    ],
+    "YYText": [
+
+    ],
+    "SVProgressHUD": [
+
+    ],
+    "INTULocationManager": [
+
+    ],
+    "Starscream": [
+
+    ],
+    "Reachability": [
+
+    ],
+    "JXPhotoBrowser": [
+
+    ],
+    "ObjectMapper+Realm": [
+
+    ],
+    "RealmSwift": [
+      "4.3.1"
+    ]
+  }
+}
